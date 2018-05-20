@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using  tic_tac_toe;
+using tic_tac_toe;
 
 namespace UnitTest
 {
@@ -10,7 +10,7 @@ namespace UnitTest
         [TestMethod]
         public void TestMethod1()
         {
-            game ttt;
+            game a;
         }
     }
 }
